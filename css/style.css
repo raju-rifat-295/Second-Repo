@@ -1,0 +1,19 @@
+li{
+    font-size: large;
+}
+
+div{
+    border: 5px solid black;
+    margin: 3px;
+    padding: 3px ;
+    background-color: rgb(73, 214, 214);
+}
+
+.steps-title{
+    font-family:monospace;
+}
+
+li::marker{
+    font-weight: 400;
+    color: red;
+}
